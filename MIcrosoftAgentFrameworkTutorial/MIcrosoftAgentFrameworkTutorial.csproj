@@ -14,8 +14,4 @@
     <PackageReference Include="Microsoft.Agents.AI.Foundry" Version="1.5.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="HelloAgent\" />
-  </ItemGroup>
-
 </Project>
